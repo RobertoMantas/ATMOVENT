@@ -1,0 +1,5 @@
+RPi.GPIO
+numpy
+PyQt5
+pyqtgraph
+serial
