@@ -14,7 +14,7 @@
 First, make sure you cloned/downloaded the repository:
 
 ```
-$ git clone link_to_this_repository
+$ git clone https://github.com/RobertoMantas/ATMOVENT.git
 ```
 Second, before trying to run the program make sure the libraries are correctly installed:
 
